@@ -1,0 +1,38 @@
+{
+  "ProjectName": "RAM",
+  "BuildVersion": "1.0.2",
+  "CreationTime": "2025-03-15T22:21:23.798989-04:00",
+  "AllCreatedChips": [
+    "NAND",
+    "OR",
+    "XOR",
+    "X-CLOCK",
+    "NOR",
+    "SR-Latch",
+    "D-Latch",
+    "R-Edge",
+    "D-Flip-Flop",
+    "1-Bit-Reg",
+    "4-Bit Reg"
+  ],
+  "StarredChips": [
+    "AND",
+    "NOT",
+    "NAND",
+    "OR",
+    "XOR",
+    "X-CLOCK",
+    "NOR",
+    "SR-Latch",
+    "D-Latch",
+    "R-Edge",
+    "D-Flip-Flop",
+    "1-Bit-Reg",
+    "4-Bit Reg"
+  ],
+  "DisplayOptions": {
+    "MainChipPinNameDisplayMode": 1,
+    "SubChipPinNameDisplayMode": 1,
+    "ShowCursorGuide": 0
+  }
+}

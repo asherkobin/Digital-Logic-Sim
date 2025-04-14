@@ -1,0 +1,110 @@
+{
+  "Name": "s",
+  "Colour": "#622BC3",
+  "InputPins": [
+    {
+      "Name": "Pin",
+      "ID": 394377236,
+      "PositionY": 0.8229166,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 90928213,
+      "PositionY": -0.21874994,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "OutputPins": [
+    {
+      "Name": "Pin",
+      "ID": 223480137,
+      "PositionY": 0.4236114,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "SubChips": [
+    {
+      "Name": "TRI-STATE BUFFER",
+      "ID": 246925024,
+      "Points": [
+        {
+          "X": -3.652778,
+          "Y": 0.5000001
+        }
+      ],
+      "Data": null
+    }
+  ],
+  "Connections": [
+    {
+      "Source": {
+        "PinType": 1,
+        "SubChipID": 0,
+        "PinID": 394377236
+      },
+      "Target": {
+        "PinType": 3,
+        "SubChipID": 246925024,
+        "PinID": 0
+      },
+      "WirePoints": [
+        {
+          "X": -7.837778,
+          "Y": 0.8229166
+        },
+        {
+          "X": -4.57277775,
+          "Y": 0.675000131
+        }
+      ],
+      "ColourThemeName": "Red"
+    },
+    {
+      "Source": {
+        "PinType": 1,
+        "SubChipID": 0,
+        "PinID": 90928213
+      },
+      "Target": {
+        "PinType": 3,
+        "SubChipID": 246925024,
+        "PinID": 1
+      },
+      "WirePoints": [
+        {
+          "X": -7.837778,
+          "Y": -0.21874994
+        },
+        {
+          "X": -4.57277775,
+          "Y": 0.3250001
+        }
+      ],
+      "ColourThemeName": "Red"
+    },
+    {
+      "Source": {
+        "PinType": 4,
+        "SubChipID": 246925024,
+        "PinID": 2
+      },
+      "Target": {
+        "PinType": 2,
+        "SubChipID": 0,
+        "PinID": 223480137
+      },
+      "WirePoints": [
+        {
+          "X": -2.73277783,
+          "Y": 0.5000001
+        },
+        {
+          "X": 7.837778,
+          "Y": 0.4236114
+        }
+      ],
+      "ColourThemeName": "Red"
+    }
+  ]
+}

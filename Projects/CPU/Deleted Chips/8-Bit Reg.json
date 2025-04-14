@@ -1,0 +1,124 @@
+{
+  "Name": "8-Bit Reg",
+  "Colour": "#A4855E",
+  "InputPins": [
+    {
+      "Name": "D0",
+      "ID": 434316093,
+      "PositionY": 4.56944466,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "D1",
+      "ID": 27660766,
+      "PositionY": 3.91666651,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "D2",
+      "ID": 1160641354,
+      "PositionY": 3.315972,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "D3",
+      "ID": 1000201911,
+      "PositionY": 2.64583349,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "D4",
+      "ID": 1713925732,
+      "PositionY": 1.91666663,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "D5",
+      "ID": 247862975,
+      "PositionY": 1.26388907,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "D6",
+      "ID": 112039315,
+      "PositionY": 0.5694443,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "D7",
+      "ID": 599406879,
+      "PositionY": -0.163194537,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "CLK",
+      "ID": 1519109970,
+      "PositionY": -3.736111,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "DE",
+      "ID": 526604280,
+      "PositionY": -2.98611116,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "OE",
+      "ID": 105321158,
+      "PositionY": -2.20486116,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "OutputPins": [
+    {
+      "Name": "Q0",
+      "ID": 1055551625,
+      "PositionY": 4.170139,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Q1",
+      "ID": 968293434,
+      "PositionY": 3.03472233,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Q2",
+      "ID": 2124351280,
+      "PositionY": 1.93402767,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Q3",
+      "ID": 135458080,
+      "PositionY": 0.788194537,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Q4",
+      "ID": 771007198,
+      "PositionY": -0.329861045,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Q5",
+      "ID": 1465392396,
+      "PositionY": -1.57291675,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Q6",
+      "ID": 1970740000,
+      "PositionY": -2.57986116,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Q7",
+      "ID": 22426131,
+      "PositionY": -3.78125,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "SubChips": [],
+  "Connections": []
+}

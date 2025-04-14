@@ -1,0 +1,23 @@
+{
+  "ProjectName": "Ben Eater",
+  "BuildVersion": "1.0.2",
+  "CreationTime": "2025-04-10T22:33:33.82786-04:00",
+  "AllCreatedChips": [
+    "NAND",
+    "XOR",
+    "OR"
+  ],
+  "StarredChips": [
+    "AND",
+    "NOT",
+    "TRI-STATE BUFFER",
+    "NAND",
+    "XOR",
+    "OR"
+  ],
+  "DisplayOptions": {
+    "MainChipPinNameDisplayMode": 1,
+    "SubChipPinNameDisplayMode": 1,
+    "ShowCursorGuide": 0
+  }
+}

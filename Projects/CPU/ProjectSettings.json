@@ -1,0 +1,48 @@
+{
+  "ProjectName": "CPU",
+  "BuildVersion": "1.0.2",
+  "CreationTime": "2024-08-07T22:30:07.202781-04:00",
+  "AllCreatedChips": [
+    "OR",
+    "NOR",
+    "D Flip-Flop",
+    "1-Bit D Reg",
+    "4-Bit Reg",
+    "8-Bit D Reg",
+    "NAND",
+    "2-Bit Mux",
+    "4-Chan DMux",
+    "Half Adder",
+    "Full Adder",
+    "4-Bit Full Adder",
+    "XOR",
+    "SR-Latch",
+    "D-Latch",
+    "T",
+    "T Flip-Flop",
+    "T-Clock",
+    "D-FF",
+    "T-FF",
+    "SR-FF"
+  ],
+  "StarredChips": [
+    "OR",
+    "NOR",
+    "AND",
+    "NOT",
+    "NAND",
+    "CLOCK",
+    "T-Clock",
+    "D-FF",
+    "T-FF",
+    "SR-FF",
+    "XOR",
+    "Full Adder",
+    "Half Adder"
+  ],
+  "DisplayOptions": {
+    "MainChipPinNameDisplayMode": 1,
+    "SubChipPinNameDisplayMode": 1,
+    "ShowCursorGuide": 0
+  }
+}

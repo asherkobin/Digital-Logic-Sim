@@ -1,0 +1,55 @@
+{
+  "Name": "sww",
+  "Colour": "#4C7C28",
+  "InputPins": [],
+  "OutputPins": [],
+  "SubChips": [
+    {
+      "Name": "TRI-STATE BUFFER",
+      "ID": 1358885680,
+      "Points": [
+        {
+          "X": -5.354167,
+          "Y": 0.03472209
+        }
+      ],
+      "Data": null
+    },
+    {
+      "Name": "NOT",
+      "ID": 1934926762,
+      "Points": [
+        {
+          "X": -5.56944466,
+          "Y": 1.97916687
+        }
+      ],
+      "Data": null
+    }
+  ],
+  "Connections": [
+    {
+      "Source": {
+        "PinType": 4,
+        "SubChipID": 1934926762,
+        "PinID": 1
+      },
+      "Target": {
+        "PinType": 3,
+        "SubChipID": 1358885680,
+        "PinID": 0
+      },
+      "WirePoints": [
+        {
+          "X": -5.01944447,
+          "Y": 1.97916687
+        },
+        {
+          "X": -6.274167,
+          "Y": 0.2097221
+        }
+      ],
+      "ColourThemeName": "Red"
+    }
+  ]
+}
