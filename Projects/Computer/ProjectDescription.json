@@ -1,0 +1,120 @@
+{
+  "ProjectName": "Computer",
+  "DLSVersion_LastSaved": "2.0.3",
+  "DLSVersion_EarliestCompatible": "2.0.0",
+  "CreationTime": "2025-04-13T00:13:23.133-04:00",
+  "LastSaveTime": "2025-04-13T21:38:31.253-04:00",
+  "Prefs_MainPinNamesDisplayMode": 0,
+  "Prefs_ChipPinNamesDisplayMode": 1,
+  "Prefs_SimPaused": false,
+  "Prefs_SimTargetStepsPerSecond": 1000,
+  "Prefs_SimStepsPerClockTick": 250,
+  "AllCustomChipNames":[
+    "NOT",
+    "AND",
+    "OR",
+    "XOR",
+    "NOR",
+    "D-LATCH",
+    "Grid",
+    "2-Bit Decoder",
+    "MEM-256",
+    "MEM-1",
+    "MEM-16"
+  ],
+  "StarredList":[
+    {
+      "Name":"IN/OUT",
+      "IsCollection":true
+    },
+    {
+      "Name":"NOT",
+      "IsCollection":false
+    },
+    {
+      "Name":"AND",
+      "IsCollection":false
+    },
+    {
+      "Name":"OR",
+      "IsCollection":false
+    },
+    {
+      "Name":"NAND",
+      "IsCollection":false
+    },
+    {
+      "Name":"NOR",
+      "IsCollection":false
+    },
+    {
+      "Name":"XOR",
+      "IsCollection":false
+    },
+    {
+      "Name":"D-LATCH",
+      "IsCollection":false
+    },
+    {
+      "Name":"2-Bit Decoder",
+      "IsCollection":false
+    },
+    {
+      "Name":"4-1BIT",
+      "IsCollection":false
+    },
+    {
+      "Name":"MEM-256",
+      "IsCollection":false
+    },
+    {
+      "Name":"MEM-1",
+      "IsCollection":false
+    },
+    {
+      "Name":"MEM-16",
+      "IsCollection":false
+    },
+    {
+      "Name":"BUS-1",
+      "IsCollection":false
+    }
+  ],
+  "ChipCollections":[
+    {
+      "Chips":["NAND","CLOCK","KEY","3-STATE BUFFER"],
+      "IsToggledOpen":true,
+      "Name":"BASIC"
+    },
+    {
+      "Chips":["IN-1","IN-4","IN-8","OUT-1","OUT-4","OUT-8"],
+      "IsToggledOpen":false,
+      "Name":"IN/OUT"
+    },
+    {
+      "Chips":["1-4BIT","1-8BIT","4-8BIT","4-1BIT","8-4BIT","8-1BIT"],
+      "IsToggledOpen":true,
+      "Name":"MERGE/SPLIT"
+    },
+    {
+      "Chips":["BUS-1","BUS-4","BUS-8"],
+      "IsToggledOpen":true,
+      "Name":"BUS"
+    },
+    {
+      "Chips":["7-SEGMENT","DOT DISPLAY","RGB DISPLAY"],
+      "IsToggledOpen":false,
+      "Name":"DISPLAY"
+    },
+    {
+      "Chips":["ROM 256×16"],
+      "IsToggledOpen":false,
+      "Name":"MEMORY"
+    },
+    {
+      "Chips":["OR","NOT","AND","XOR","NOR","D-LATCH","Grid","2-Bit Decoder","MEM-256","MEM-1","MEM-16"],
+      "IsToggledOpen":true,
+      "Name":"OTHER"
+    }
+  ]
+}

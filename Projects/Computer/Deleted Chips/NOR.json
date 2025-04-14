@@ -1,0 +1,82 @@
+{
+  "ChipType": 0,
+  "Colour": {
+    "r": 0.414095,
+    "g": 0.3759033,
+    "b": 0.2801109,
+    "a": 1
+  },
+  "Displays":[],
+  "InputPins":[
+    {
+      "Name":"IN A",
+      "ID":1543052138,
+      "Position":{
+        "x":-1.67447,
+        "y":-1.38468
+      },
+      "BitCount":1,
+      "Colour":0,
+      "ValueDisplayMode":0
+    },
+    {
+      "Name":"IN B",
+      "ID":1290766041,
+      "Position":{
+        "x":-1.78171,
+        "y":-2.04098
+      },
+      "BitCount":1,
+      "Colour":0,
+      "ValueDisplayMode":0
+    }
+  ],
+  "Name": "NOR",
+  "NameLocation": 0,
+  "OutputPins":[
+    {
+      "Name":"OUT",
+      "ID":92355550,
+      "Position":{
+        "x":2.39618,
+        "y":-1.51371
+      },
+      "BitCount":1,
+      "Colour":0,
+      "ValueDisplayMode":0
+    }
+  ],
+  "Size": {
+    "x": 0.575,
+    "y": 0.5
+  },
+  "SubChips":[
+    {
+      "Name":"NOT",
+      "ID":1116820173,
+      "Label":"",
+      "Position":{
+        "x":0.80992,
+        "y":-1.54946
+      },
+      "OutputPinColourInfo":[{"PinColour":0,"PinID":1923673941}],
+      "InternalData":null
+    }
+  ],
+  "Wires":[
+    {
+      "SourcePinAddress":{
+        "PinID":1923673941,
+        "PinOwnerID":1116820173
+      },
+      "TargetPinAddress":{
+        "PinID":0,
+        "PinOwnerID":92355550
+      },
+      "ConnectionType":0,
+      "ConnectedWireIndex":-1,
+      "ConnectedWireSegmentIndex":-1,
+      "Points":[{"x":0.0,"y":0.0},{"x":0.0,"y":0.0}]
+    }
+  ]
+}
